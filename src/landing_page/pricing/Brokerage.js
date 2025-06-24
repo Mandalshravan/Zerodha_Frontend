@@ -5,7 +5,7 @@ function Brokerage() {
     <div className="container ">
       <div className="row p-5 mt-5 text-center border-top">
         <div className="col-6 p-4">
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="#" style={{ textDecoration: "none" }}>
             <h3 className="fs-5">Brokerage Calculator</h3>
           </a>
           <p
@@ -51,7 +51,7 @@ function Brokerage() {
           </p>
         </div>
         <div className="col-6 p-4">
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="#" style={{ textDecoration: "none" }}>
             <h3 className="fs-5">List of charges</h3>
           </a>
           <p className="text-muted" style={{ textAlign: "justify" }}>
